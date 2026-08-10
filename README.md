@@ -20,5 +20,5 @@ It performs basic arithmetic operations — addition, subtraction, multiplicatio
 🧭 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Calculator-App.git
+  https://github.com/amosrfemena-png/Calculator.git
    cd Calculator-App
